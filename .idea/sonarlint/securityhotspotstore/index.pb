@@ -9,3 +9,5 @@ H
 Clarinet.toml,9/d/9d284ad9ceb4c6d6525244c8f2230e5943b9c9b2
 G
 contracts/meme-nft.clar,7/c/7c1bec7ea5496e3ef2d44ba16c6d2eb2e64cd2a8
+F
+tests/meme-nft.test.ts,b/b/bb530d7e6d0781e76f7463da078b4ae304e0bd39
